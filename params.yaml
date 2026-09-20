@@ -1,0 +1,10 @@
+obstacle_avoidance_node:
+  ros__parameters:
+
+    safe_distance: 0.6
+
+    linear_speed: 0.20
+
+    angular_speed: 0.80
+
+    debug: true
