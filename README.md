@@ -1,2 +1,2 @@
 # ros2-obstacle-avoidance
-ROS 2 Jazzy obstacle avoidance robot using LiDAR
+An autonomous TurtleBot3 obstacle avoidance project using ROS2 Jazzy and Gazebo Harmonic.
